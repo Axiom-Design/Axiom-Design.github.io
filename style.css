@@ -17,7 +17,7 @@ h1 {
 
 div.new_tab_text {
 	position:relative;
-	left:332px;
+	left:21.2%;
 	overflow-x:hidden;
 	margin-right: -150;
 }
@@ -26,7 +26,7 @@ div.new_tab_text {
 div.search {
 	position: relative;
 	top: -35px;
-	left: 338px;
+	left: 21.5%;
 	z-index: 1;
 	overflow-x:hidden;
 }
@@ -113,7 +113,7 @@ a.menu_item:hover {
 
 table {
 	position:relative;
-	top: -100px;
+	top: -50px;
 	
 	
 }
