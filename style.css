@@ -8,6 +8,13 @@ body {
 	top: 100px;
 }
 
+body.afterdark {
+	background-color: #00243D;
+	overflow-x:hidden;
+	position:relative;
+	top: 100px;
+}
+
 h1 {
 	font-size: 80px;
 	color: #ffffff;
