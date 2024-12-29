@@ -6,6 +6,7 @@ body {
 	overflow-x:hidden;
 	position:relative;
 	top: 100px;
+	font-family:Segoe UI, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 
 body.afterdark {
