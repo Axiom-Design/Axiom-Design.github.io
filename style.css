@@ -22,6 +22,10 @@ h1 {
 	font-weight:100;	
 }
 
+div.clockbox {
+	font-family:Segoe UI, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
 div.new_tab_text {
 	position:relative;
 	left:21.2%;
